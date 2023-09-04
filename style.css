@@ -1,0 +1,7 @@
+.show-grid .column, .show-grid .columns{
+    background: rgba(0, 0, 0, 0.1);
+    text-align: center;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    line-height: 30px;
+}
